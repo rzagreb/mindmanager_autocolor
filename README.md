@@ -1,4 +1,4 @@
-#Mindjet Auto Color
+# Mindjet Auto Color
 
 Applying colors to selected nodes in Mindjet, for better perception. 
 
